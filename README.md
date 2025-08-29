@@ -22,4 +22,7 @@ Estamos medindo o progresso em três frentes:
 🔸 Frequência de uso de serviços digitais
 🔸 Redução do sentimento de isolamento
 
-Quer saber mais sobre a arquitetura da solução, metodologia de validação e próximos passos?
+## 📜 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
